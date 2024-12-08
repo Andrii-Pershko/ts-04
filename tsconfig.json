@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+     "jsx": "react-jsx", // або "react" для старих версій React
+    "types": ["react", "react-dom"],
     "target": "es5",
     "lib": [
       "dom",
